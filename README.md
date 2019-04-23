@@ -1,4 +1,4 @@
-#SpottngNature(a social networking app for nature lovers)
+#SpottngNature(a social networking app for nature lovers)[SPN](https://janakhpon.github.io/SpottingNature/) 
 
 ## Help visitors on spotting nature beauty
 
@@ -13,7 +13,7 @@ cd dicegame
 
 
 ### USE Deployed link
- Use deployed link [here](https://janakhpon.github.io/dicegame/) 
+ Use deployed link [here](https://janakhpon.github.io/SpottingNature/) 
 
 
 
